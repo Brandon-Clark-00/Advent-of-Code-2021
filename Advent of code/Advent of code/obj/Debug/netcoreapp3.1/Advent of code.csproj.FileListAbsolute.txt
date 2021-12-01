@@ -1,0 +1,13 @@
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.exe
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.deps.json
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.runtimeconfig.json
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.dll
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.pdb
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.AssemblyInfo.cs
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.dll
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.pdb
+C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.genruntimeconfig.cache
