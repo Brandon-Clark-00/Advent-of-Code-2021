@@ -53,7 +53,7 @@ namespace Advent_of_code
         static void day2()
         {
             string[] input = File.ReadAllLines(@"../../../Inputs/2.txt");
-            int horizontal = 0, depth = 0, d2 = 0, aim = 0, total = 0;
+            int horizontal = 0, depth = 0, d2 = 0, aim = 0;
             foreach (var i in input)
             {
                 string[] line = i.Split(' ');
@@ -76,18 +76,8 @@ namespace Advent_of_code
                         break;
                 }
             }
-            total = horizontal * depth;
 
-            Console.WriteLine("Part 1:\nHorizontal pos: " + horizontal + "\nDepth pos: " + depth + "\nTotal: " + total + "\n------------------");
-
-            total = horizontal * d2;
-
-            Console.WriteLine("Part 2:\nHorizontal Pos " + horizontal + "\nDepth pos: " + d2 + "\nAim: " + aim + "\nTotal: " + total);
-           
-
-
-           
-
+            Console.WriteLine("Part 1 total: " + horizontal * depth + "\nPart 2 total: " + horizontal * d2);
         }
     }
 }
