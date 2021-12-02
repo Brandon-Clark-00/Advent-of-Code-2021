@@ -11,3 +11,17 @@ C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code
 C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.dll
 C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.pdb
 C:\Users\Brandon\Documents\uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.genruntimeconfig.cache
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.exe
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.deps.json
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.runtimeconfig.json
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.runtimeconfig.dev.json
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.dll
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\bin\Debug\netcoreapp3.1\Advent of code.pdb
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.csproj.AssemblyReference.cache
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.AssemblyInfo.cs
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.dll
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.pdb
+C:\Users\brand\Documents\Uni\Advent-of-Code-2021\Advent of code\Advent of code\obj\Debug\netcoreapp3.1\Advent of code.genruntimeconfig.cache
