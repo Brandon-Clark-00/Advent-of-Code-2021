@@ -53,20 +53,24 @@ namespace Advent_of_code
         static void day2()
         {
             string[] input = File.ReadAllLines(@"../../../Inputs/2.txt");
-            int horizontal = 0, depth = 0, aim = 0, total = 0;
+            int horizontal = 0, depth = 0, d2 = 0, aim = 0, total = 0;
             foreach (var i in input)
             {
                 string[] line = i.Split(' ');
+                int x = Int32.Parse(line[1]);
                 switch (line[0])
                 {
                     case "forward":
-                        horizontal += Int32.Parse(line[1]);
+                        horizontal += x;
+                        d2 += aim * x;
                         break;
                     case "up":
-                        depth -= Int32.Parse(line[1]);
+                        depth -= x;
+                        aim -= x;
                         break;
                     case "down":
-                        depth += Int32.Parse(line[1]);
+                        depth += x;
+                        aim += x;
                         break;
                     default:
                         break;
@@ -74,40 +78,15 @@ namespace Advent_of_code
             }
             total = horizontal * depth;
 
-            Console.WriteLine("Part 1:");
-            Console.WriteLine("Horizontal pos: " + horizontal);
-            Console.WriteLine("Depth pos: " + depth);
-            Console.WriteLine("Total: " + total);
-            Console.WriteLine("-------------------");
+            Console.WriteLine("Part 1:\nHorizontal pos: " + horizontal + "\nDepth pos: " + depth + "\nTotal: " + total + "\n------------------");
 
-            horizontal = 0;  depth = 0; aim = 0; total = 0;
+            total = horizontal * d2;
 
-            foreach (var i in input)
-            {
-                string[] line = i.Split(' ');
-                switch (line[0])
-                {
-                    case "forward":
-                        horizontal += Int32.Parse(line[1]);
-                        depth += aim * Int32.Parse(line[1]);
-                        break;
-                    case "up":
-                        aim -= Int32.Parse(line[1]);
-                        break;
-                    case "down":
-                        aim += Int32.Parse(line[1]);
-                        break;
-                    default:
-                        break;
-                }
-            }
-            total = horizontal * depth;
-            Console.WriteLine("Part 2:");
-            Console.WriteLine("Horizontal pos: " + horizontal);
-            Console.WriteLine("Depth pos: " + depth);
-            Console.WriteLine("Aim: " + aim);
-            Console.WriteLine("Total: " + total);
-            Console.WriteLine("-------------------");
+            Console.WriteLine("Part 2:\nHorizontal Pos " + horizontal + "\nDepth pos: " + d2 + "\nAim: " + aim + "\nTotal: " + total);
+           
+
+
+           
 
         }
     }
